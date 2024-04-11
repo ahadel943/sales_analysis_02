@@ -73,7 +73,6 @@ After cleaning, preparing and understanding the data found the following notes
     * Orders Count: 5,000
     * Average Order Value (AOV): $1,047.62
     * Applied Discount Count: 221
-    * Product Count: 5
 
 2) Based on our sales performance over time the following was found:
     * **2023** has the highest revenue with a total of **$1,331,800.14**.
