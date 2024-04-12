@@ -129,6 +129,10 @@ After cleaning, preparing and understanding the data found the following notes
     * In **2023**, **Tuesdays** have the highest peak unlike the behavior in the past years.
 
     ![total_order_count_by_hour](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/11.total_order_count_by_hour.jpg)
+    ![2020_order_count_by_hour](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/12.2020_order_count_by_hour.jpg)
+    ![2021_order_count_by_hour](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/13.2021_order_count_by_hour.jpg)
+    ![2022_order_count_by_hour](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/14.2022_order_count_by_hour.jpg)
+    ![2023_order_count_by_hour](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/15.2023_order_count_by_hour.jpg)
     * There's a notable number of orders being placed during the late night to early morning hours, with counts ranging from **194** to **238**, This suggests a segment of our customer base is active during these hours, possibly due to work schedules, time zone differences, or lifestyle preferences.
     * Starting at **6 AM**, there's a slight increase peaking at **9 AM**, This could indicate customers placing orders before starting their day or businesses ordering early in the workday.
     * There's a dip in order counts, especially around **10 AM** and **11 AM**, which could be attributed to the transition between morning activities and lunch hours. The slight increase at noon and **1 PM** might be due to lunchtime orders.
@@ -156,15 +160,19 @@ After cleaning, preparing and understanding the data found the following notes
     * Similar to previous years, there's a peak in orders around midday, particularly at **1 PM (60 orders)**, This could be attributed to customers placing orders during lunch breaks or taking advantage of midday promotions or deals.
     * The afternoon and evening hours maintain relatively stable order counts, hovering around **40** to **60** orders per hour. This consistency indicates sustained customer engagement throughout the day.
 
+    ![total_orders_count_by_product_launch](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/17.total_orders_count_by_product_launch.jpg)
     * In the overall period **(2020-2023)** the product launches seems to have a slight effect on the orders growth.
     * **2517** orders with product launches.
     * **2483** orders without product launches.
+    ![orders_count_by_product_launch_by_year](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/16.orders_count_by_product_launch_by_year.jpg)
     * In both **2020** and **2021** the product does affect the growth of the orders count, With a total orders with launches **1264** orders and **1202** without product launches.
     * **2020** has **651** orders with product launches and **607** orders without product launches while **2021** has 613 orders with launches and 595 orders without launches wth a notable dep in orders count from its previuos year.
     * In both **2022** and **2023** the product luanches doesn't affect the growth of the orders count, With a total orders with launches **1253** orders and 1281 without product launches.
     * **2022** has **619** orders with product launches and **642** orders without product launches while **2023** has **634** orders with launches and 639 orders without launches.
-    
+
+    ![total_rders_count_by_marketing_campaign](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/18.total_rders_count_by_marketing_campaign.jpg)
     * In the overall period the Referral marketing campaign generates the highest order count with a total of **1306** orders, While the Email Promo marketing campaign generates the lowest orders count with a total of **1209** orders.
+    ![orders_count_by_marketing_campaign_by_year](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/19.orders_count_by_marketing_campaign_by_year.jpg)
     * In **2020**, The Holiday Campaign leads in orders generation with a total of **340** while the Email Promo has the lowest count of orders with **291** orders in total.
     * In **2021**, The Summer Sale has te highest count of orders totaling **315** orders, While the Holiday Campaign generates the lowest count with a total of 292 orders.
     * In **2022**, The Referral campaign generates the highest count of orders with a total of **337** orders and the Summer Sale campaign genarates the lowest orders count with a total of **294** orders.
