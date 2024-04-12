@@ -75,6 +75,7 @@ After cleaning, preparing and understanding the data found the following notes
     * Applied Discount Count: 221
 
 2) Based on our sales performance over time the following was found:
+    ![total_orders_amount_by_year](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/1.total_orders_amount_by_year.jpg)
     * **2023** has the highest revenue with a total of **$1,331,800.14**.
     * **2021** has the lowest revenue with a total of **$1,277,456.71**.
     * There is a dep in the yearly growth in **2021** with **-2.54%**.
