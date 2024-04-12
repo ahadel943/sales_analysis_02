@@ -179,25 +179,33 @@ After cleaning, preparing and understanding the data found the following notes
     * In **2023**, The Referral campaign generates the highest count of orders with a total of 340 orders and the Summer Sale campaign generates the lowest orders count with a total of **308** orders.
     
 2) Based on our customer segmentation analysis we found the following:
+    ![orders_count_by_customer_segment](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/20.orders_count_by_customer_segment.jpg)
+    ![sales_amount_by_customer_segment](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/21.sales_amount_by_customer_segment.jpg)
     * In the overall period, **New Customer** has generated the highest orders count totaling **1305** orders followed by **Loyal Customer** with a total of **1244** orders and comes in third **High-Value Customer** with a total of **1239** orders and lastly  Regular Custome with a total count of **1212** orders.
     * In the overall, period **New Customer** has generated the highest sales amount totaling **$1,412,745.50** followed by **Loyal Customer** with a total of **$1,303,996.23** and comes in third  **High-Value Customer** with a total of **$1,267,198.08** and lastly **Regular Customer** with atotal count of **$1,254,142.57**.
     * Customer segment, In terms of orders count and sales amount, follows the same performance order.
     * **New Customer** is the top performer while **Regular Customer** is the down performer.
+    ![orders_count_by_customer_segment_by_year](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/22.orders_count_by_customer_segment_by_year.jpg)
     * In **2020**, **High-Value Customer** is the top performer with a total orders of **347** orders.
-    * In **2021**, 2022 and 2023, **New Customer** is the top performer with the totals of **334**, **346** and **327** orders respectively.
+    * In **2021**, **2022** and **2023**, **New Customer** is the top performer with the totals of **334**, **346** and **327** orders respectively.
     *  In **2022** and **2023**, The **High-Value Customer** is the under performer with the totals of **287** and **311** orders respectively.
     * In **2021**, The **Regular Customer** is the under performer with the total of **273** orders.
     * In **2020**, Both the **New Customer** and **Regular Customer** are the under performer with the same order count of **298** orders.
 
-3) Based on our geographical sales analysis the following was found:
+4) Based on our geographical sales analysis the following was found:
+    ![total_order_count_by_city](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/24.total_order_count_by_city.jpg)
     * **Columbus**, **Las Vegas** and **Jacksonville** have the highest count of orders **200**, **198** and **190** respctivly.
     * **Philadelphia**, **San Francisco** and **Fort Worth** have the lowest count of orders **150**, **147** and **145** respectivly.
+    ![total_orders_amount_by_city](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/25.total_orders_amount_by_city.jpg)
     * **Columbus**, **Seattle** and **Las Vegas** have the highest orders amount **$216,637.48**, **$204,624.70** and **$198,662.22** respectivly.
     * **San Diego**, **Phiadelphia** and **San Francisco** have the lowest orders amount **$150,991.52**, **$145,834.92** and **$140,815.30**.
     * **Columbus** and **Las Vegas** are in the top three performers in terms of order count and order amount.
     * **Phiadelphia** and **San Francisco** are in the down three performers in terms of order count and order amount.
+    ![average_order_value_by_city](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/26.average_order_value_by_city.jpg)
     * **Columbus** has in the ninth highest average order value **$1,083.19** and yet it is the top per former city in terms of order count and order amount.
     * **San Francisco** has the lowest average order value **$957.93** and it is in position before last in order count with a total count of 147 that's why it is down performer.
+
+    ![marketing_campaign_order_count_by_city](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/27.marketing_campaign_order_count_by_city.jpg)
     * **Email Promo** performs well in **Las Vegas**, **Indianapolis**, **Austin** and **San Antonio**.
     * **Email Promo** performs poorly in **Dallas**, **San Jose**, **Washington** and **Fort Worth**.
     * **Holiday Campaign** performs well in **Memphis**, **Dallas**, **Columbus** and **Oklahoma City**.
@@ -208,11 +216,14 @@ After cleaning, preparing and understanding the data found the following notes
     * **Summer Sale** performs poorly in **New York**, **Baltimore**, **Phoenix** and **San Francisco**.
     * Different marketing campaigns have varying levels of effectiveness across different cities. For example, some cities may respond better to certain campaigns compared to others.
     
-4) Based on our marketing campaign analysis we found the following:
+5) Based on our marketing campaign analysis we found the following:
+    ![marketing_campaign_total_order_count_by_year](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/28.marketing_campaign_total_order_count_by_year.jpg)
     * The total order counts for each marketing campaign over the four-year period are relatively consistent, ranging from **1209** to **1306** orders. This suggests that overall, the marketing campaigns have maintained a stable level of effectiveness in driving orders.
     * in **2020**, The **Holiday Campaign** generated the highest order couunt totaling **340** orders while **Email Promo** generated the lowest order count with total of **291** orders.
     * In **2021**, The **Summer Sale** generated the highest order couunt totaling **315** orders while **Holiday Campaign** generated the lowest order count with a total of **292** orders.
     * In **2022** and **2023**, The **Referral** generated the highest order couunt totaling **337** and **340** orders while **Summer Sale** generated the lowest order count with the totals of **294** and **308** orders.
+    
+    ![customer_segment_order_count_by_marketing_campaign](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/29.customer_segment_order_count_by_marketing_campaign.jpg)
     * **Email Promo** do well in attracting the **loyal customer** sgment with a total orders count of **322** orders mean while it has the lowest **Regular Customer** orders count witha total of **285** orders.
     * **Holiday Campaign**, **Referral** and **Summer Sale** generate the highest New Customer orders count **325**, **363** and **314** respectivly.
     * **Holiday Campaign** geneates the lowest order count in **Loyal Customer** with a total orders of **309** orders. 
@@ -220,11 +231,13 @@ After cleaning, preparing and understanding the data found the following notes
     * **Summer Sale** generates the lowest order count in Regular Customer with a total orders count of **301** orders.
     * The **Referral** Campaign stands out as the most effective in generating order counts across all customer segments, while the **Email Promo** campaign appears to be the least effective. The **Holiday Campaign** and **Summer Sale** perform consistently across different customer segments, showing relatively balanced effectiveness.
 
-5) Based on our payment methods performance we found the following:
+6) Based on our payment methods performance we found the following:
+    ![total_orders_count_by_payment_method](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/30.total_orders_count_by_payment_method.jpg)
     * **Cash** accounts for the highest proportion of orders, comprising approximately **34.98%** of the total orders.
     * **Credit Card** payments make up approximately **32.62%** of the total orders, indicating a significant portion of customers prefer this payment method.
     * **PayPal** is also popular among customers, representing around **32.40%** of the total orders.
     * **Cash** is the most commonly used payment method among customers, followed closely by **Credit Card** payments and **PayPal**.
+    ![payment_method_order_count_by_customer_segment](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/31.payment_method_order_count_by_customer_segment.jpg)
     * **Loyal Customer** made the highiest number of purchases paid with **Cash**, **458** orders.
     * **Regular Customer** generated the lowest count of orders paid with Cash, **405** orders.
     * **High-Value Customer** made the highiest number of purchases paid with **Credit Card**, **437** orders.
@@ -232,7 +245,9 @@ After cleaning, preparing and understanding the data found the following notes
     * Both **New Customer** and **Regular Customer** generated the highest orders count paid with **PayPal**, **425** orders.
     * **High-Value Customer** generated the lowest count of orders paid with **PayPal**, **370** orders. 
     
-6) Based on our sales representatives analysis we found the following insights:
+7) Based on our sales representatives analysis we found the following insights:
+    ![total_orders_count_by_sales_representative](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/32.total_orders_count_by_sales_representative.jpg)
+    ![total_orders_amount_by_sales_representative](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/33.total_orders_amount_by_sales_representative.jpg)
     * **Mark Walker** has the highest total orders with **174**, followed closely by **Richard White** with **164** and **Daniel Scott** with **163**. This indicates that **Mark Walker** is the most prolific in terms of generating orders.
     * **Mark Walker** also leads in total sales amount with **$181,049.97**, followed by **Daniel Scott** with **$171,066.83** and **Joseph Martin** with **$169,897.24**, This suggests that **Mark Walker** not only generates a high volume of orders but also contributes significantly to the overall revenue.
     * Some salespersons, such as **Mark Walker**, **Daniel Scott**, and **Joseph Martin**, appear in the top positions for both total orders and total sales amount. This indicates consistency in performance across both metrics.
@@ -241,6 +256,7 @@ After cleaning, preparing and understanding the data found the following notes
     * **Lisa Garcia**, **Susan Harris** and **Donna Brooks** generated the lowest orders amount **$130,599.32**, **$123,767.56** and **$123,710.54** respectivly.
     * Considering that **New Customer**, **Loyal Customer**, **High-Value Customer** and **Regular Customer**, Following that order in both orders count and sales amount.
     * When it comes to the top-performer in the **High-Value Customer** segment **Mark Walker** leads in orders generation (**49** orders) and **Mark Walker** leads as well in the order generation in **Loyal Customer** (**48** orders) and in the **New Customer** segment he comes in the fifth position (**44** orders).
+    ![average_order_value_by_sales_representative](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/34.average_order_value_by_sales_representative.jpg)
     * **Mark Walker** follows a strategy of focusing on the top **3** customer segemnts in terms of order count and sales amount, Taking in consideration that he doesn't have the highest AOV (**$1,040.52**).
     * **Daniel Scott** is the **2nd** most profitable in sales amount the **3rd** in orders count, With an AOV of (**$1,049.49**), He comes in the top positions perhaps his strategy of focusing on the **New Customer** segment which he leads in the orders generated by this segment (**50** orders).
     * **Joseph Martin** is the **3rd** in sales volume generation with an AOV of (**$1,089.08**) he focuses on the **Loyal Customer** segment, Generated **47** orders comes in **2nd** after **Mark Walker**.
