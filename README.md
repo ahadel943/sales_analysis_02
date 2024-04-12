@@ -79,18 +79,22 @@ After cleaning, preparing and understanding the data found the following notes
     * **2023** has the highest revenue with a total of **$1,331,800.14**.
     * **2021** has the lowest revenue with a total of **$1,277,456.71**.
     * There is a dep in the yearly growth in **2021** with **-2.54%**.
+    ![2020_order_amount_by_month](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/2.2020_order_amount_by_month.jpg)
     * **February 2020** leads in revenue generation with a total of **$138,547.85**.
     * **July 2020** is the lowest in revenue generation with a total of **$84,529.97**.
     * **March 2020** and **April 2020** has the lowest growth rate **-20.09%** and **-20.98%** respectivly.
     * **December 2020** has the highest growth rate 25.58% with a total revenue of **$125,985.59**.
+    ![2021_order_amount_by_month](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/3.2021_order_amount_by_month.jpg)
     * **November 2021** leads in revenue generation with a total of **$131,566.08**.
     * **March 2021** is the lowest in revenue generation with a total of **$78,268.51** with a growth rate of **-29.92%**.
     * **March 2021** and **December 2021** has the lowest growth rate **-29.92%** and **-31.91%** respectivly.
     * **April 2021** has the highest growth rate **27.68%** with a total revenue of **$99,930.88**.
+    ![2022_order_amount_by_month](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/4.2022_order_amount_by_month.jpg)
     * **January 2022** leads in revenue generation with a total of **$136,426.80** with a growth rate of **11.94%**.
     * **March 2022** is the lowest in revenue generation with a total of **$78,268.51** with a growth rate of **-29.92%**.
     * **March 2022** and **December 2022** has the lowest growth rate **-15.92%** and **-17.07%** respectivly.
     * **November 2022** has the highest growth rate **27.55%** with a total revenue of **$131,972.92**.
+    ![2023_order_amount_by_month](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/5.2023_order_amount_by_month.jpg)
     * **January 2023** leads in revenue generation with a total of **$146,985.62**.
     * **April 2023** is the lowest in revenue generation with a total of **$80,031.36** with a growth rate of **-28.58%**.
     * **April 2023** and **September 2023** has the lowest growth rate **-28.58%** and **-23.34%** respectivly.
@@ -104,21 +108,27 @@ After cleaning, preparing and understanding the data found the following notes
         * The **highest** revenue peaks tends to be in the **1st** and **4th** quarter.
         * The **lowest** revenue peaks tends to be in the **2nd** and **3rd** quarter.
 
+    ![total_order_count_by_weekday](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/6.total_order_count_by_weekday.jpg)
     * **Saturdays** tend to have the highest order count over the entire period **733** orders.
     * **Sundays** have the  lowest order count over the entire period **637** orders.
+    ![2020_order_count_by_weekday](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/7.2020_order_count_by_weekday.jpg)
     * In **2020**, **Sundays** have the lowest orders count with a total of **152** orders.
     * **Thursdays** have the highest orders count with a total of **199** orders.
+    ![2021_order_count_by_weekday](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/8.2021_order_count_by_weekday.jpg)
     * In **2021**, **Sundays** have the lowest orders count with a total of **163** orders.
     * **Fridays** have the highest orders count with a total of **189** orders.
+    ![2022_order_count_by_weekday](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/9.2022_order_count_by_weekday.jpg)
     * In **2022**, **Sundays** have the lowest orders count with a total of **150** orders.
     * **Saturdays** have the highest orders count with a total of **192** orders.
+    ![2023_order_count_by_weekday](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/10.2023_order_count_by_weekday.jpg)
     * In **2023**, **Sundays** have the lowest orders count with a total of **172** orders.
     * **Tuesdays** have the highest orders count with a total of **202** orders.
     * **Sundays** always tend have the lowest orders count.
     * **Mondays** always tend to generate more orders than **Sundays**.
     * Except for **2020**, **Thursdays** tends to have a dep in order count from **Wednesday**.
     * In **2023**, **Tuesdays** have the highest peak unlike the behavior in the past years.
-    
+
+    ![total_order_count_by_hour](https://github.com/ahadel943/sales_analysis_02/blob/main/charts/11.total_order_count_by_hour.jpg)
     * There's a notable number of orders being placed during the late night to early morning hours, with counts ranging from **194** to **238**, This suggests a segment of our customer base is active during these hours, possibly due to work schedules, time zone differences, or lifestyle preferences.
     * Starting at **6 AM**, there's a slight increase peaking at **9 AM**, This could indicate customers placing orders before starting their day or businesses ordering early in the workday.
     * There's a dip in order counts, especially around **10 AM** and **11 AM**, which could be attributed to the transition between morning activities and lunch hours. The slight increase at noon and **1 PM** might be due to lunchtime orders.
